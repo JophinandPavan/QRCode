@@ -17,7 +17,7 @@ import com.google.zxing.common.BitMatrix;
 import com.journeyapps.barcodescanner.BarcodeEncoder;
 
 public class GeneratorActivity extends AppCompatActivity {
-    EditText text;
+    EditText text ;
     Button gen_btn;
     ImageView image;
     String text2Qr;
